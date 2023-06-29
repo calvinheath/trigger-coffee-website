@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/trigger-coffee-website/static/css/main.24e8487b.css",
-    "main.js": "/trigger-coffee-website/static/js/main.bce7e69a.js",
+    "main.js": "/trigger-coffee-website/static/js/main.b407189a.js",
     "static/media/product2.png": "/trigger-coffee-website/static/media/product2.b5f16e0f201dfdf37582.png",
     "static/media/product1.png": "/trigger-coffee-website/static/media/product1.e409c7d7ea03664b7952.png",
     "static/media/product3.png": "/trigger-coffee-website/static/media/product3.e3a2e69086fb482c41e8.png",
     "static/media/logo.png": "/trigger-coffee-website/static/media/logo.ad055a10eba717f0d155.png",
     "index.html": "/trigger-coffee-website/index.html",
     "main.24e8487b.css.map": "/trigger-coffee-website/static/css/main.24e8487b.css.map",
-    "main.bce7e69a.js.map": "/trigger-coffee-website/static/js/main.bce7e69a.js.map"
+    "main.b407189a.js.map": "/trigger-coffee-website/static/js/main.b407189a.js.map"
   },
   "entrypoints": [
     "static/css/main.24e8487b.css",
-    "static/js/main.bce7e69a.js"
+    "static/js/main.b407189a.js"
   ]
 }
